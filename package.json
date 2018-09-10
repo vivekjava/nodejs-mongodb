@@ -1,0 +1,23 @@
+{
+  "name": "Test",
+  "description": "ItechTamizhan,Inc.",
+  "version": "6.10.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cjson": "^0.5.0",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "https": "^1.0.0",
+    "mongodb": "^3.0.1",
+    "mongoose": "^5.0.1",
+    "morgan": "^1.9.0",
+    "serve-favicon": "^2.4.5",
+    "uuid": "^3.2.1"
+  }
+}
